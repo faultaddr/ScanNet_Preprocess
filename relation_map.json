@@ -1,0 +1,124 @@
+{
+    "bathtub": [
+        "shower curtain",
+        "toilet",
+        "cabinet",
+        "picture",
+        "otherfurniture",
+        "sink",
+        "winodw",
+        "counter"
+    ],
+    "bed": [
+        "cabinet",
+        "picture",
+        "curtain",
+        "window",
+        "otherfurniture"
+    ],
+    "bookshelf": [
+        "otherfurniture",
+        "picture",
+        "window"
+    ],
+    "cabinet": [
+        "bed",
+        "door",
+        "counter",
+        "sink",
+        "picture",
+        "otherfurniture",
+        "window",
+        "refrigerator"
+    ],
+    "chair": [
+        "desk",
+        "sofa",
+        "table",
+        "window",
+        "picture",
+        "otherfurniture"
+    ],
+    "counter": [
+        "cabinet",
+        "sink",
+        "refrigerator",
+        "window",
+        "picture",
+        "otherfurniture"
+    ],
+    "curtain": [
+        "desk",
+        "table",
+        "bed",
+        "window",
+        "picture",
+        "otherfurniture",
+        "cabinet"
+    ],
+    "desk": [
+        "cabinet",
+        "chair",
+        "sofa",
+        "table",
+        "window",
+        "picture",
+        "otherfurniture"
+    ],
+    "door": [
+        "curtain",
+        "cabinet",
+        "otherfurniture",
+        "window",
+        "picture"
+    ],
+    "refrigerator": [
+        "cabinet",
+        "counter",
+        "sink"
+    ],
+    "shower curtain": [
+        "bathtub",
+        "toilet",
+        "sink",
+        "counter",
+        "picture",
+        "otherfurniture",
+        "window",
+        "door"
+    ],
+    "sink": [
+        "bathtub",
+        "toilet",
+        "counter",
+        "cabinet",
+        "window",
+        "picture",
+        "otherfurniture"
+    ],
+    "sofa": [
+        "table",
+        "desk",
+        "chair",
+        "window",
+        "picture",
+        "otherfurniture"
+    ],
+    "toilet": [
+        "sink",
+        "bathtub",
+        "counter",
+        "picture",
+        "window",
+        "otherfurniture"
+    ],
+    "table": [
+        "cabinet",
+        "chair",
+        "desk",
+        "sofa",
+        "window",
+        "picture",
+        "otherfurniture"
+    ]
+}

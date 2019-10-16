@@ -8,6 +8,6 @@ for p in path_list:
     dir_list.append(dir_name)
 
 for dir in dir_list:
-    shutil.copy('/media/scans/'+dir+'/'+dir+'_vh_clean_2.ply','./v/'+dir+'.ply')
+    shutil.copy('/data/ScanNet_origin/scans/'+dir+'/'+dir+'_vh_clean_2.labels.ply','./v/'+dir+'_vh_clean_2.labels.ply')
 
 
